@@ -1,0 +1,10 @@
+## Interface: 100005
+## Title: CraftingReagentNav
+## Author: Scott Ingram
+## Version: v0.1
+## Notes: A right click on a reagent in your crafting panel will jump to the reagent's recipe page
+
+Globals.lua
+Debug.lua
+CraftingReagentNav.lua
+
